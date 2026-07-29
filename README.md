@@ -1,5 +1,7 @@
-# llama.cpp Prebuilt Binaries for Termux (32-bit ARM)
-Prebuilt **llama.cpp** binaries compiled for **Termux on ARMHF (armeabi-v7a / armv8l)** Android devices.
+# Run offline AI models on 32-bit Android phones with Termux.
+
+- llama.cpp Prebuilt Binaries for Termux (32-bit ARM)
+- Prebuilt **llama.cpp** binaries compiled for **Termux on ARMHF (armeabi-v7a / armv8l)** Android devices.
 
 This project provides prebuilt llama.cpp binaries that allow you to run GGUF models (such as TinyLlama and Gemma) locally on 32-bit Android devices using Termux.
 
