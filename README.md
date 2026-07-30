@@ -43,7 +43,7 @@ wget -c "https://huggingface.co/bartowski/gemma-2-2b-it-abliterated-GGUF/resolve
 
 - TinyLlama (faster):
 ```bash
-https://huggingface.co/hieupt/TinyLlama-1.1B-Chat-v1.0-Q4_K_M-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0-q4_k_m.gguf?download=true
+wget -c "https://huggingface.co/hieupt/TinyLlama-1.1B-Chat-v1.0-Q4_K_M-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0-q4_k_m.gguf?download=true"
 ```
 
 ## Run a Model
