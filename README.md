@@ -1,5 +1,8 @@
 # Run offline AI models on 32-bit Android phones with Termux.
 
+![llama.cpp on Termux 32-bit](images/llama-cpp.jpg)
+
+
 - llama.cpp Prebuilt Binaries for Termux (32-bit ARM)
 - Prebuilt **llama.cpp** binaries compiled for **Termux on ARMHF (armeabi-v7a / armv8l)** Android devices.
 
@@ -69,3 +72,6 @@ chmod +x bin/*
 ## License
 This repository contains prebuilt binaries of llama.cpp.
 See the upstream project's license for source code licensing.
+
+## Keywords
+llama.cpp, Termux, ARMHF, armeabi-v7a, 32-bit Android, offline AI, GGUF, llama-cli
